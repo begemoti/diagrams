@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T07:34:22.888Z" agent="5.0 (X11)" etag="_bPz68WvVsFO4lX9PVpI" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-15T07:35:40.076Z" agent="5.0 (X11)" etag="jy-cVjghcXph3Ul1syDY" version="20.1.1" type="github">
   <diagram id="6wgh4p37ZJmnQRDNlt5Z" name="Page-1">
     <mxGraphModel dx="3435" dy="2476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -118,9 +118,6 @@
         </mxCell>
         <mxCell id="kvSuViRsgWenfTOcaBKt-39" value="&lt;div&gt;&lt;h1&gt;Legend&lt;/h1&gt;&lt;/div&gt;&lt;div&gt;1. DIA - Direct Internet access&lt;/div&gt;&lt;div&gt;2. Peering - Private peerings&lt;/div&gt;&lt;div&gt;3. IXP - Internet exchange points&lt;/div&gt;&lt;div&gt;4. L2/L3 - Virtual Private network services&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-830" y="220" width="470" height="460" as="geometry" />
-        </mxCell>
-        <mxCell id="kvSuViRsgWenfTOcaBKt-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="150" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kvSuViRsgWenfTOcaBKt-41" value="In&amp;nbsp;Sofia, Magticom network with minimal cost can connect to content giants like Google, Facebook, Akamai and cut the expenses on the Internet. IXPs in Sofia offer 100G port for about 1000 Euro and can connect to more than 100 networks." style="rounded=0;whiteSpace=wrap;html=1;fontSize=48;fontColor=#000000;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="425" y="-690" width="1040" height="540" as="geometry" />
