@@ -1,11 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T08:26:30.513Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="FQCfdOIAU86p0cgJqPim" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T08:34:52.475Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="CxiWztUbHwdJvj6Bl2yT" version="22.1.21" type="github">
   <diagram name="Page-1" id="oRiDXX4sD0r26CksEAYl">
     <mxGraphModel dx="1081" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="paRaMl_WzUt5QVdEGW8j-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="paRaMl_WzUt5QVdEGW8j-1" target="paRaMl_WzUt5QVdEGW8j-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="paRaMl_WzUt5QVdEGW8j-24" value="100G" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="paRaMl_WzUt5QVdEGW8j-23">
+          <mxGeometry x="-0.0333" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="paRaMl_WzUt5QVdEGW8j-1" value="EX4500-40f" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="paRaMl_WzUt5QVdEGW8j-3" value="&lt;a style=&quot;box-sizing: inherit; background: 0px 0px rgba(82, 95, 111, 0.15); color: white; text-decoration-line: none; margin-right: 12px; cursor: pointer; font-family: &amp;quot;Netflix Sans&amp;quot;, Helvetica, Arial, Helvetica, sans-serif; font-size: 14px; text-align: start;&quot; href=&quot;https://my.oc.netflix.com/org/5071/site/7524/appliance/76201&quot; class=&quot;tss-72mvuw-link-rightMargin&quot;&gt;c003.tbs001.magticom&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;box-sizing: border-box; max-width: 100%; font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 0.8rem; display: inline-flex; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; height: 21px; color: rgb(255, 255, 255); background-color: rgba(255, 255, 255, 0.16); border-radius: 4px; transition: background-color 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms; cursor: unset; outline: 0px; border: 0px; padding: 0px; vertical-align: middle; text-align: start;&quot; class=&quot;MuiChip-root MuiChip-filled MuiChip-sizeSmall MuiChip-colorDefault MuiChip-filledDefault tss-1wdr9be-root mui-18evimu&quot;&gt;&lt;/div&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.server" vertex="1" parent="1">
+          <mxGeometry x="220" y="920" width="90" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="paRaMl_WzUt5QVdEGW8j-4" value="&lt;a style=&quot;box-sizing: inherit; background: 0px 0px rgba(82, 95, 111, 0.15); color: white; text-decoration-line: none; margin-right: 12px; cursor: pointer; font-family: &amp;quot;Netflix Sans&amp;quot;, Helvetica, Arial, Helvetica, sans-serif; font-size: 14px; text-align: start;&quot; href=&quot;https://my.oc.netflix.com/org/5071/site/7524/appliance/76485&quot; class=&quot;tss-72mvuw-link-rightMargin&quot;&gt;c004.tbs001.magticom&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;box-sizing: border-box; max-width: 100%; font-family: Roboto, Helvetica, Arial, sans-serif; font-size: 0.8rem; display: inline-flex; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; height: 21px; color: rgb(255, 255, 255); background-color: rgba(255, 255, 255, 0.16); border-radius: 4px; transition: background-color 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms; cursor: unset; outline: 0px; border: 0px; padding: 0px; vertical-align: middle; text-align: start;&quot; class=&quot;MuiChip-root MuiChip-filled MuiChip-sizeSmall MuiChip-colorDefault MuiChip-filledDefault tss-1wdr9be-root mui-18evimu&quot;&gt;&lt;/div&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.server" vertex="1" parent="1">
+          <mxGeometry x="450" y="920" width="90" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="paRaMl_WzUt5QVdEGW8j-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="paRaMl_WzUt5QVdEGW8j-3" target="paRaMl_WzUt5QVdEGW8j-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="830" as="sourcePoint" />
+            <mxPoint x="450" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="paRaMl_WzUt5QVdEGW8j-10" value="LACP Po 14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="paRaMl_WzUt5QVdEGW8j-5">
+          <mxGeometry x="0.1309" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="paRaMl_WzUt5QVdEGW8j-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="paRaMl_WzUt5QVdEGW8j-4" target="paRaMl_WzUt5QVdEGW8j-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="830" as="sourcePoint" />
+            <mxPoint x="450" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="paRaMl_WzUt5QVdEGW8j-11" value="LACP Po 14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="paRaMl_WzUt5QVdEGW8j-7">
+          <mxGeometry x="0.0971" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="paRaMl_WzUt5QVdEGW8j-12" value="MPLS&lt;br&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="570" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="paRaMl_WzUt5QVdEGW8j-13" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="220" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="paRaMl_WzUt5QVdEGW8j-14" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="460" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="paRaMl_WzUt5QVdEGW8j-15" value="Internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="paRaMl_WzUt5QVdEGW8j-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.13;entryY=0.77;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="paRaMl_WzUt5QVdEGW8j-13" target="paRaMl_WzUt5QVdEGW8j-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="480" as="sourcePoint" />
+            <mxPoint x="450" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="paRaMl_WzUt5QVdEGW8j-17" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.8;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="paRaMl_WzUt5QVdEGW8j-14" target="paRaMl_WzUt5QVdEGW8j-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="297" y="490" as="sourcePoint" />
+            <mxPoint x="375" y="376" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="paRaMl_WzUt5QVdEGW8j-19" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="paRaMl_WzUt5QVdEGW8j-12" target="paRaMl_WzUt5QVdEGW8j-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="620" as="sourcePoint" />
+            <mxPoint x="580" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="paRaMl_WzUt5QVdEGW8j-20" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="336" y="593" as="sourcePoint" />
+            <mxPoint x="302" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="paRaMl_WzUt5QVdEGW8j-21" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="paRaMl_WzUt5QVdEGW8j-20">
+          <mxGeometry x="0.2705" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
